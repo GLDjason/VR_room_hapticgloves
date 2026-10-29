@@ -1,0 +1,4 @@
+repository "VR_Room_hapticgloves/VR_Room_hapticgloves@9072455065565@cloud"
+  path "/"
+    br "/main"
+    co "/main"
